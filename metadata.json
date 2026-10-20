@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Hunt AI: Threat Hunting & Attack Reconstruction",
+  "description": "Evidence-linked AI threat hunting, attack graph correlation, and attack sequence reconstruction platform for SOC analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
